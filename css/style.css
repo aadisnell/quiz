@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+/*    font-size: 80%;*/
+    background: transparent url('../img/football.jpg')  no-repeat fixed center;
+}
+
+#header{
+   
+    margin: 50px auto 10px;
+/*    text-align: center;*/
+/*    border: 1px solid;*/
+    border-bottom: none;
+/*
+    border-radius: 10px 10px 0px 0px;
+    padding: 
+*/
+}
